@@ -10,4 +10,3 @@ To predict the international box office revenue for each movie
 
 To predict the value of the revenue variable.
 
-
